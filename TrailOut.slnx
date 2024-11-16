@@ -1,0 +1,8 @@
+﻿<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="compose.yml" />
+  </Folder>
+  <Folder Name="/src/">
+    <Project Path="src\TrailOut.Api\TrailOut.Api.csproj" Type="Classic C#" />
+  </Folder>
+</Solution>

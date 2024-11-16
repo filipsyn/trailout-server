@@ -1,0 +1,6 @@
+﻿services:
+  trailout.api:
+    image: trailout.api
+    build:
+      context: src/
+      dockerfile: TrailOut.Api/Dockerfile

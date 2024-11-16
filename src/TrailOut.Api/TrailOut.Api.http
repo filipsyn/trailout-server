@@ -1,0 +1,6 @@
+@TrailOut.Api_HostAddress = http://localhost:5283
+
+GET {{TrailOut.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
