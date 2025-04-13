@@ -1,0 +1,3 @@
+module github.com/filipsyn/trailout-server
+
+go 1.24.2
